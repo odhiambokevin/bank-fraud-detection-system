@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+pip-log.txt
+
+
