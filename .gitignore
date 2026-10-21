@@ -11,5 +11,5 @@ venv/
 .venv/
 .env
 pip-log.txt
-
+resources/
 

@@ -1,0 +1,2 @@
+kafka-python-ng>=2.2.3
+polars>=1.20
